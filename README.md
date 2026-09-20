@@ -33,26 +33,6 @@ A区间特征：密度低、温度高、磁场强、β小于1。
 上述特征符合从**磁层等离子体环境**过渡到**磁鞘等离子体环境**的物理图像。
 
 ---
-## 项目目录结构
-```
-mms-plasma-beta/
-├── README.md
-├── AGENTS.md
-├── src/
-│   ├── load_fgm.py
-│   ├── plot_fgm.py
-│   ├── load_fpi.py
-│   └── compute_beta.py
-├── figures/
-│   ├── mms1_fgm_overview.png
-│   ├── mms1_fpi_overview.png
-│   └── mms1_beta_overview.png
-├── results/
-└── data/
-    └── spedas/
-```
-
----
 ## 相关文献
 Le Contel, O., et al. (2016).
 *Whistler mode waves and Hall fields detected by MMS during a dayside magnetopause crossing.*
